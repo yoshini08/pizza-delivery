@@ -56,6 +56,7 @@ This project is open-source and free to use.
 This version looks **clean, professional, and well-formatted** with proper use of ````bash```` and headers. Let me know if you need any modifications! 🚀✨
 ```
 
+Developed by Yoshini Mallabathula
 
-
+git URL: [https://github.com/yoshini08](url)
 
